@@ -1,0 +1,25 @@
+Fixed slider Text
+Fixed : portfolio responsive issues
+Added : Pricing 
+Added : Error Pages
+Added : Maga Menu 
+
+
+
+    Creative Agency
+    Marketing Agency
+    Design Agency
+    Corporate Website
+    E-Commerce Website
+    Architecture Website
+    Resume and vCard
+    Freelancers
+    Photographers
+    Blog and Magazine
+    Beauty Salon
+    Restaurant
+    Travel Agency
+    Fashion Agency
+    Fashion Magazine
+    Wedding Websites
+    Landing Page
